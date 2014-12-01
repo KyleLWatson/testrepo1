@@ -18,5 +18,10 @@ namespace WindowsFormsApplication1
 
             this.Text = "abc";
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.Text = "dff";
+        }
     }
 }
