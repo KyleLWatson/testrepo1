@@ -16,7 +16,7 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
 
-            this.Text = "abc";
+            
         }
     }
 }
